@@ -11,3 +11,7 @@ I*INTERN ID:
 "DURATION: 4 WEEEKS
 
 MENTOR: NEELA SANTOSH
+
+#output
+
+![Image](https://github.com/user-attachments/assets/e7292619-a7f6-4b1e-bd98-2b8ae8817997)
